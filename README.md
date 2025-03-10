@@ -15,6 +15,11 @@ This is a web-based application for predicting whether a given URL is malicious 
 ![UI 1](/images/UI_1.jpg) ![UI 2](/images/UI_2.jpg)  
 ![UI 3](/images/UI_4.jpg) ![UI 4](/images/UI_3.jpg)
 
+![UI 1](/images/UI_1.jpg | width=300) 
+![UI 2](/images/UI_2.jpg | width=300)  
+![UI 3](/images/UI_4.jpg | width=300) 
+![UI 4](/images/UI_3.jpg | width=300)
+
 ### Prediction Result
 
 ![Prediction Result](images/prediction_result.png)
