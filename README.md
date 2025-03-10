@@ -1,3 +1,5 @@
+
+
 # Malicious URL Prediction Web App
 
 This is a web-based application for predicting whether a given URL is malicious or benign. The frontend is built using **Next.js**, and the backend is powered by a **Python machine learning model** using **Random Forest** and **Logistic Regression**.
@@ -8,47 +10,49 @@ This is a web-based application for predicting whether a given URL is malicious 
 - **Real-time Prediction:** Provides instant feedback on the submitted URL.
 - **Visualizations:** Displays model performance and data distribution.
 
-
 ### User Interface
 
-![Home Page](images/UI_1.jpg)
-
-
+![UI 1](/images/UI_1.jpg) ![UI 2](/images/UI_2.jpg)  
+![UI 3](/images/UI_4.jpg) ![UI 4](/images/UI_3.jpg)
 
 ### Prediction Result
-```md
+
 ![Prediction Result](images/prediction_result.png)
-```
 
 ## Model Performance
 Below are the evaluation metrics and performance comparisons of the models:
 
 ### Accuracy Comparison
-```md
-![Model Accuracy](\images\accuracy.png)
-```
+
+![Model Accuracy](images/accuracy.png)
 
 ### Confusion Matrix
-```md
-![Confusion Matrix](\images\confusion_matrix.png)
-```
+
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### ROC Curve
-```md
-![ROC Curve](\images\ROC.png)
-```
+
+![ROC Curve](images/ROC.png)
 
 ## Data Distribution
-The dataset consists of **92,000** URLs categorized into different types such as phishing, benign, and defacement.
+The dataset consists of **92,000** URLs categorized into different types such as phishing, benign, and defacement. The models are trained using this dataset.
+
+### Dataset
+
+You can access the dataset used for training the models at the following link:
+
+[Dataset Link](https://example.com/dataset)  
 
 ### URL Types Distribution
-```md
-![Class Distribution](\images\datadistribution.png)
-```
 
+![Class Distribution](images/datadistribution.png)
 
+### URL Distribution
+
+![URL Distribution](images/URLdistribution.png)
 
 ## Installation and Setup
+
 ### Prerequisites
 ```sh
 - Node.js
@@ -59,27 +63,18 @@ The dataset consists of **92,000** URLs categorized into different types such as
 
 ### Setup
 ```sh
-# Clone the repository
-git clone https://github.com/yourusername/malicious-url-predictor.git
-cd malicious-url-predictor
-```
 
-#### Backend Setup (Python ML API)
-```sh
+# Backend Setup (Python ML API)
 cd backend
 pip install -r requirements.txt
 python app.py
-```
 
-#### Frontend Setup (Next.js)
-```sh
+# Frontend Setup (Next.js)
 cd frontend
 npm install
 npm run dev
-```
 
-#### Access the Application
-```sh
+# Access the Application
 Open http://localhost:3000 in your browser.
 ```
 
@@ -96,13 +91,8 @@ Open http://localhost:3000 in your browser.
 - Data Visualization: Matplotlib, Seaborn
 ```
 
-## Contributors
-```md
-- Your Name - [GitHub](https://github.com/yourusername)
-```
+## Training the Model
+The models used in the backend (Random Forest and Logistic Regression) are trained using the dataset linked above. The training process and model evaluation are available in the following Jupyter notebook:
 
-## License
-```md
-This project is licensed under the MIT License.
-```
+[Model Training Notebook](https://github.com/Sithija-R/Malicious_URL_prediction/blob/main/ML%20model/malicious_URL_Prediction.ipynb) 
 
