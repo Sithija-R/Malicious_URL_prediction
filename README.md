@@ -44,7 +44,7 @@ The dataset consists of **92,000** URLs categorized into different types such as
 
 You can access the dataset used for training the models at kaggle:
 
-[Dataset Link]([https://example.com/dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset))  
+[Dataset Link](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset)
 
 ### URL Types Distribution
 
