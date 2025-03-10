@@ -1,0 +1,12 @@
+# Ignore virtual environments
+.venv
+venv
+
+# Ignore Jupyter Notebook and Python model files
+phishing_predict.ipynb
+url_model_custom.pkl
+vectorizer_custom.pkl
+predict.py
+random_forest_model.pkl
+logistic_regression_model.pkl
+malicious_phish.csv
