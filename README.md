@@ -19,7 +19,7 @@ This is a web-based application for predicting whether a given URL is malicious 
 |---------------------------|---------------------------|
 | ![UI 4](/images/UI_4.jpg) | ![UI 3](/images/UI_3.jpg) |
 
-| <img src="/images/UI_1.jpg" width="500" /> | <img src="/images/UI_2.jpg" width="500" /> |
+| <img src="/images/UI_1.jpg" width="600" /> | <img src="/images/UI_2.jpg" width="600" /> |
 |--------------------------------------------|--------------------------------------------|
 | <img src="/images/UI_4.jpg" width="500" /> | <img src="/images/UI_3.jpg" width="500" /> |
 
