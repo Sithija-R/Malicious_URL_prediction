@@ -10,25 +10,16 @@ This is a web-based application for predicting whether a given URL is malicious 
 - **Real-time Prediction:** Provides instant feedback on the submitted URL.
 - **Visualizations:** Displays model performance and data distribution.
 
-### User Interface
-
 
 ### User Interface
 
-| ![UI 1](/images/UI_1.jpg) | ![UI 2](/images/UI_2.jpg) |
-|---------------------------|---------------------------|
-| ![UI 4](/images/UI_4.jpg) | ![UI 3](/images/UI_3.jpg) |
-
-| <img src="/images/UI_1.jpg" width="600" /> | <img src="/images/UI_2.jpg" width="600" /> |
-|--------------------------------------------|--------------------------------------------|
-| <img src="/images/UI_4.jpg" width="500" /> | <img src="/images/UI_3.jpg" width="500" /> |
-
-
+| ![UI 1](/images/UI_1.jpg) | ![UI 3](/images/UI_3.jpg) |
 
 
 ### Prediction Result
+![UI 2](/images/UI_2.jpg) 
+![UI 4](/images/UI_4.jpg)
 
-![Prediction Result](images/prediction_result.png)
 
 ## Model Performance
 Below are the evaluation metrics and performance comparisons of the models:
@@ -50,9 +41,9 @@ The dataset consists of **92,000** URLs categorized into different types such as
 
 ### Dataset
 
-You can access the dataset used for training the models at the following link:
+You can access the dataset used for training the models at kaggle:
 
-[Dataset Link](https://example.com/dataset)  
+[Dataset Link]([https://example.com/dataset](https://www.kaggle.com/datasets/sid321axn/malicious-urls-dataset))  
 
 ### URL Types Distribution
 
