@@ -38,7 +38,7 @@ Below are the evaluation metrics and performance comparisons of the models:
 ![ROC Curve](images/ROC.png)
 
 ## Data Distribution
-The dataset consists of **92,000** URLs categorized into different types such as phishing, benign, and defacement. The models are trained using this dataset.
+The dataset consists of **651,191** URLs categorized into different types such as phishing, benign, and defacement. The models are trained using this dataset.
 
 ### Dataset
 
