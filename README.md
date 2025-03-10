@@ -12,10 +12,25 @@ This is a web-based application for predicting whether a given URL is malicious 
 
 ### User Interface
 
-<img src="/images/UI_1.jpg" width="300" /> 
-<img src="/images/UI_2.jpg" width="300" />  
-<img src="/images/UI_4.jpg" width="300" />
-<img src="/images/UI_3.jpg" width="300" />
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/images/UI_1.jpg" width="500" />
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="/images/UI_2.jpg" width="500" />
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/images/UI_4.jpg" width="500" />
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="/images/UI_3.jpg" width="500" />
+  </div>
+</div>
+
 
 ### Prediction Result
 
