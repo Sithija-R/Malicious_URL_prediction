@@ -11,7 +11,7 @@ This is a web-based application for predicting whether a given URL is malicious 
 
 ### User Interface
 ```md
-![Home Page](images/UI_1.jpg)
+![Home Page](images\UI_1.jpg)
 
 ```
 
