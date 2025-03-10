@@ -8,10 +8,11 @@ This is a web-based application for predicting whether a given URL is malicious 
 - **Real-time Prediction:** Provides instant feedback on the submitted URL.
 - **Visualizations:** Displays model performance and data distribution.
 
-## Screenshots
-### Home Page
+
+### User Interface
 ```md
-![Home Page](images/home_page.png)
+![Home Page](\images\UI_1.jpg)
+
 ```
 
 ### Prediction Result
@@ -24,31 +25,28 @@ Below are the evaluation metrics and performance comparisons of the models:
 
 ### Accuracy Comparison
 ```md
-![Model Accuracy](images/model_accuracy.png)
+![Model Accuracy](\images\accuracy.png)
 ```
 
 ### Confusion Matrix
 ```md
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](\images\confusion_matrix.png)
 ```
 
 ### ROC Curve
 ```md
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](\images\ROC.png)
 ```
 
 ## Data Distribution
 The dataset consists of **92,000** URLs categorized into different types such as phishing, benign, and defacement.
 
-### Class Distribution
+### URL Types Distribution
 ```md
-![Class Distribution](images/class_distribution.png)
+![Class Distribution](\images\datadistribution.png)
 ```
 
-### Feature Importance (Random Forest)
-```md
-![Feature Importance](images/feature_importance.png)
-```
+
 
 ## Installation and Setup
 ### Prerequisites
